@@ -81,7 +81,7 @@ def konversi_suhu(nilai, dari, ke):
 
 
         return c + 273.15
-[18.53, 6/9/2025] -: def konversi_suhu(nilai, dari, ke):
+def konversi_suhu(nilai, dari, ke):
 
 
 
