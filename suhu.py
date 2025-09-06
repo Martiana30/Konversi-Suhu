@@ -1,4 +1,4 @@
-[18.21, 6/9/2025] -: def konversi_suhu(nilai, dari, ke):
+def konversi_suhu(nilai, dari, ke):
 
 
 
